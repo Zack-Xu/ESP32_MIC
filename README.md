@@ -28,5 +28,5 @@
 —— 4. 灯带接口，连接了ESP32的17、21号引脚，通过自己编程，可以接其他设备，实现其他功能
 
 ### PCB图片
-<img src="images/pcb.png">
+<img src="images/PCB.png">
   
